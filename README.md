@@ -7,7 +7,8 @@ as it doesn't need slopes.
 
 ## Why This Is Being Made
 I decided to make this because I find that I keep making projects 
-and copying the source code of my SuperTux fangame, PepperTux-Haxe.
+and copying the source code of my very old fangame version of my
+SuperTux mod, PepperTux, specifically the HaxeFlixel version.
 
 This will hopefully be a good base for any platformer game, which 
 is why it will have a few branches.
