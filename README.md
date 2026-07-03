@@ -1,9 +1,8 @@
 This has not started development yet.
 
-# FlixelTux
-A base for SuperTux (Milestone 1) fangames made using HaxeFlixel. 
-Also just something that can be used for any platformer, as long 
-as it doesn't need slopes.
+# Vaesea's Platformer Base
+A base for basic platformers made using HaxeFlixel. Will have a 
+branch for SuperTux fangames.
 
 ## Why This Is Being Made
 I decided to make this because I find that I keep making projects 
@@ -25,7 +24,7 @@ few things like coins, bonus blocks and obviously, the player.
 STM1 = SuperTux Milestone 1
 
 This is where all SuperTux Milestone 1 things will be recreated,
-apart from the level editor. You'll need to use Tiled for that.
+except from certain things like menus and the level editor.
 
 ## How To Make / Edit Levels
 You'll need to install Tiled for this.
@@ -53,3 +52,7 @@ however, for Mac, I recommend asking someone to test the game for you.
 
 You can't compile this base for iOS / Android yet. This will likely be
 possible in the future when I add mobile controls.
+
+## What's The License?
+It's the GNU General Public License 3.0. Check the LICENSE file for
+more information.
