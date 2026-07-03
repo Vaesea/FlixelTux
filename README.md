@@ -36,8 +36,8 @@ create new ones using the (not-added-yet) base.tmx level.
 Nice job! Report the bug in the issues.
 
 ## I Want To Add Something!
-Nice, make sure it's something in Milestone 1 and you're adding it 
-to the STM1 branch.
+Nice, make sure it's something in SuperTux Milestone 1 and you're 
+adding it to the STM1 branch.
 
 ## How To Build
 You'll need HaxeFlixel, including Lime, Haxe, Flixel-Addons and 
