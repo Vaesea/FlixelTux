@@ -82,7 +82,7 @@ possible in the future when I add mobile controls.
 
 ### Full Release
 - [ ] Ducking / Crouching
-- [ ] Skidding
+- [ ] Skidding (STM1 Branch only)
 
 ### Unconfirmed
 - Options Menu (Really, I think this would be bloat for a simple platformer base like this. Anyone using this project would just add their own options menu anyways...)
