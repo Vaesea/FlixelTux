@@ -74,15 +74,8 @@ possible in the future when I add mobile controls.
 - SuperTux Team (The STM1 branch is a base for SuperTux fangames)
 
 ## Future Additions, Improvements And Fixes
-### Beta 2
-- [ ] Credits Menu (Will also contain the GPL 3 license text (because this project uses the GPL 3 license) and the MIT license text as HaxeFlixel uses the MIT license)
-- [ ] Replacement of Solid Object Layer with FlxTilemap's Tile Properties
-- [ ] Checkpoints
-- [ ] The warning that appears when entering the level
-
 ### Full Release
-- [ ] Ducking / Crouching
-- [ ] Skidding (STM1 Branch only)
+- [x] Ducking / Crouching
 
 ### Unconfirmed
 - Options Menu (Really, I think this would be bloat for a simple platformer base like this. Anyone using this project would just add their own options menu anyways...)
